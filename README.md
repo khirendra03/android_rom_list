@@ -20,18 +20,18 @@ ROM Name | Links | Android Version
  **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/) | 12
  **Bootleggers ROM** | [Github](https://github.com/BootleggersROM) - [Web](https://www.bootleggersrom.xyz/) | 10
  **BsdkOS** | [Github](https://github.com/bsdkOS) | 12
- **CAF Extended** | [Github](https://github.com/CAF-Extended)
- **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
- **CandyRoms** | [Github](https://github.com/CandyRoms) - [Web](https://candyroms.org/)
+ **CAF Extended** | [Github](https://github.com/CAF-Extended) | 12
+ **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/) | 12
+ **CandyRoms** | [Github](https://github.com/CandyRoms) - [Web](https://candyroms.org/) | 11
  **Carbon ROM** | [Github](https://github.com/CarbonROM) - [Web](https://carbonrom.org/)
- **Cesium OS** | [Github](https://github.com/CesiumOS-org) - [Web](http://thecesiumos.me/)
- **Cherish OS** | [Github](https://github.com/CherishOS)
+ **Cesium OS** | [Github](https://github.com/CesiumOS-org) - [Web](http://thecesiumos.me/) | 11
+ **Cherish OS** | [Github](https://github.com/CherishOS) | 12
  **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
- **Citrus CAF** | [Github](https://github.com/Citrus-CAF) 
+ **Citrus CAF** | [Github](https://github.com/Citrus-CAF) | 12
  **Cloud ROM** | [Github](https://github.com/Cloud-ROM)
  **Colt OS** | [Github](https://github.com/Colt-Enigma) 
  **ConquerOS** | [Github](https://github.com/ConquerOS)
- **Corvus ROM** | [Github](https://github.com/Corvus-ROM) - [Web](https://www.corvusrom.com/)
+ **Corvus ROM** | [Github](https://github.com/Corvus-ROM) - [Web](https://www.corvusrom.com/) | 11
  **Cosmic OS** | [Github](https://github.com/Cosmic-OS) - [Web](https://cosmic-os.github.io/)
  **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
  **Cygnus ROM** | [Github](https://github.com/cygnus-rom)
