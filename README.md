@@ -26,24 +26,24 @@ ROM Name | Links | Android Version
  **Carbon ROM** | [Github](https://github.com/CarbonROM) - [Web](https://carbonrom.org/)
  **Cesium OS** | [Github](https://github.com/CesiumOS-org) - [Web](http://thecesiumos.me/) | 11
  **Cherish OS** | [Github](https://github.com/CherishOS) | 12
- **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/)
+ **CipherOS** | [Github](https://github.com/CipherOS) - [Web](https://cipheros.github.io/) | 12
  **Citrus CAF** | [Github](https://github.com/Citrus-CAF) | 12
- **Cloud ROM** | [Github](https://github.com/Cloud-ROM)
- **Colt OS** | [Github](https://github.com/Colt-Enigma) 
- **ConquerOS** | [Github](https://github.com/ConquerOS)
+ **Cloud ROM** | [Github](https://github.com/Cloud-ROM) | 11
+ **Colt OS** | [Github](https://github.com/Colt-Enigma) | 12
+ **ConquerOS** | [Github](https://github.com/ConquerOS) | 11
  **Corvus ROM** | [Github](https://github.com/Corvus-ROM) - [Web](https://www.corvusrom.com/) | 11
- **Cosmic OS** | [Github](https://github.com/Cosmic-OS) - [Web](https://cosmic-os.github.io/)
- **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/)
- **Cygnus ROM** | [Github](https://github.com/cygnus-rom)
+ **Cosmic OS** | [Github](https://github.com/Cosmic-OS) - [Web](https://cosmic-os.github.io/) | 10
+ **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/) | 11
+ **Cygnus ROM** | [Github](https://github.com/cygnus-rom) | 11
  **Cypher OS** | [Github](https://github.com/CypherOS)
  **Derpfest** | [Github](https://github.com/DerpLab) - [Web](https://derpfest.org/)
  **Descendant X**| [Github](https://github.com/Descendant) - [Web](https://descendant.me/)
- **Dirty Unicorns** | [Github](https://github.com/DirtyUnicorns) - [Web](https://dirtyunicorns.com/)
- **Dot OS** | [Github](https://github.com/DotOS) - [Web](https://www.droidontime.com/)
+ **Dirty Unicorns** | [Github](https://github.com/DirtyUnicorns) - [Web](https://dirtyunicorns.com/) | 11
+ **Dot OS** | [Github](https://github.com/DotOS) - [Web](https://www.droidontime.com/) | 11
  **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
  **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/) | android 12
- **Extended UI** | [Github](https://github.com/Extended-UI) 
- **ExTHmUI** | [Github](https://github.com/exthmui) - [Web](https://exthmui.cn/)
+ **Extended UI** | [Github](https://github.com/Extended-UI) | dead
+ **ExTHmUI** | [Github](https://github.com/exthmui) - [Web](https://exthmui.cn/) | 11
  **FireHound** | [Github](https://github.com/FireHound) - [Web](https://firehound.github.io/)
  **Floko ROM** | [Github](https://github.com/FlokoROM) - [Web](https://floko.maud.io/)
  **Fluid OS** | [Github](https://github.com/project-fluid) - [Web](https://fluidos.me/)
