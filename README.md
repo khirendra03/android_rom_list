@@ -1,25 +1,25 @@
 # Android ROM List
 
-ROM Name | Links | version & Details
---------------- | ------------- | -------------
- **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/) | android 11
- **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/) | android 10
+ROM Name | Links | Android Version 
+--------------- | ----------- | -------------
+ **AICP** | [Github](https://github.com/AICP) - [Web](https://dwnld.aicp-rom.com/) | 11
+ **AIM ROM** | [Github](https://github.com/AIMROM) - [Web](https://aimrom.github.io/) | 10
  **AmyROM** | [Github](https://github.com/amyROM) - [Web](https://amyrom.ml/)
- **Ancient OS** | [Github](https://github.com/Ancient-Lab) | android 11 (private repo)
- **AOKP** | [Github](https://github.com/AOKP) - [Web](http://aokp.co/) | android 9
- **AOSDP** | [Github](https://github.com/AOSDP) | android 9
- **AOSiP** | [Github](https://github.com/AOSiP) - [Web](http://aosip.dev) | android 11
- **AOSP Extended** | [Github](https://github.com/AospExtended) - [Web](https://www.aospextended.com/)
- **Aquari OS** | [Github](https://github.com/AquariOS) 
- **Arrow OS** | [Github](https://github.com/arrowos) - [Web](https://arrowos.net/)
- **Atomic OS** | [Github](https://github.com/Atomic-OS) 
- **BananaDroid** | [Github](https://github.com/bananadroid)
- **BeastROMs** | [Github](https://github.com/BeastRoms) 
- **Benzo ROM** | [Github](https://github.com/BenzoRom) 
- **Bianca Project** | [Github](https://github.com/BiancaProject)
- **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/)
- **Bootleggers ROM** | [Github](https://github.com/BootleggersROM) - [Web](https://www.bootleggersrom.xyz/)
- **BsdkOS** | [Github](https://github.com/bsdkOS)
+ **Ancient OS** | [Github](https://github.com/Ancient-Lab) | 11 (private repo)
+ **AOKP** | [Github](https://github.com/AOKP) - [Web](http://aokp.co/) | 9
+ **AOSDP** | [Github](https://github.com/AOSDP) | 9
+ **AOSiP** | [Github](https://github.com/AOSiP) - [Web](http://aosip.dev) | 11
+ **AOSP Extended** | [Github](https://github.com/AospExtended) - [Web](https://www.aospextended.com/) | 11
+ **Aquari OS** | [Github](https://github.com/AquariOS) | Dead
+ **Arrow OS** | [Github](https://github.com/arrowos) - [Web](https://arrowos.net/) | 12
+ **Atomic OS** | [Github](https://github.com/Atomic-OS) | 8 (Oreo)
+ **BananaDroid** | [Github](https://github.com/bananadroid) | 11
+ **BeastROMs** | [Github](https://github.com/BeastRoms) | 10
+ **Benzo ROM** | [Github](https://github.com/BenzoRom) | 12
+ **Bianca Project** | [Github](https://github.com/BiancaProject) | 11
+ **Bliss ROMs** | [Github](https://github.com/BlissRoms) - [Web](https://blissroms.com/) | 12
+ **Bootleggers ROM** | [Github](https://github.com/BootleggersROM) - [Web](https://www.bootleggersrom.xyz/) | 10
+ **BsdkOS** | [Github](https://github.com/bsdkOS) | 12
  **CAF Extended** | [Github](https://github.com/CAF-Extended)
  **CalyxOS** | [Github](https://github.com/CalyxOS) - [Web](https://calyxos.org/)
  **CandyRoms** | [Github](https://github.com/CandyRoms) - [Web](https://candyroms.org/)
@@ -41,7 +41,7 @@ ROM Name | Links | version & Details
  **Dirty Unicorns** | [Github](https://github.com/DirtyUnicorns) - [Web](https://dirtyunicorns.com/)
  **Dot OS** | [Github](https://github.com/DotOS) - [Web](https://www.droidontime.com/)
  **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
- **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/)
+ **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/) | android 12
  **Extended UI** | [Github](https://github.com/Extended-UI) 
  **ExTHmUI** | [Github](https://github.com/exthmui) - [Web](https://exthmui.cn/)
  **FireHound** | [Github](https://github.com/FireHound) - [Web](https://firehound.github.io/)
