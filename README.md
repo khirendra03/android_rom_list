@@ -41,20 +41,20 @@ ROM Name | Links | Android Version
  **Dirty Unicorns** | [Github](https://github.com/DirtyUnicorns) - [Web](https://dirtyunicorns.com/) | 11
  **Dot OS** | [Github](https://github.com/DotOS) - [Web](https://www.droidontime.com/) | 11
  **eFoundation** | [Github](https://github.com/e-foundation) - [Web](https://e.foundation/)
- **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/) | android 12
+ **Evolution X** | [Github](https://github.com/Evolution-X) - [Web](https://evolution-x.org/) | 12
  **Extended UI** | [Github](https://github.com/Extended-UI) | dead
  **ExTHmUI** | [Github](https://github.com/exthmui) - [Web](https://exthmui.cn/) | 11
- **FireHound** | [Github](https://github.com/FireHound) - [Web](https://firehound.github.io/)
- **Floko ROM** | [Github](https://github.com/FlokoROM) - [Web](https://floko.maud.io/)
- **Fluid OS** | [Github](https://github.com/project-fluid) - [Web](https://fluidos.me/)
- **Freaky OS** | [Github](https://github.com/FreakyOS) - [Web](https://freakyos.me)
- **Fusion OS** | [Github](https://github.com/Fusion-OS)
- **GrapheneOS** | [Github](https://github.com/GrapheneOS) - [Web](https://grapheneos.org/)
- **Halogen OS** | [Github](https://git.halogenos.org/halogenOS) - [Web](https://halogenos.org/)
- **Havoc OS** | [Github](https://github.com/Havoc-OS) 
- **HyconOS** | [Github](https://github.com/HyconOS)
- **HentaiOS** | [Github](https://github.com/hentaiOS) - [Web](https://downloads.hentaios.com/)
- **Ion OS** | [Github](https://github.com/i-o-n) 
+ **FireHound** | [Github](https://github.com/FireHound) - [Web](https://firehound.github.io/) | 10
+ **Floko ROM** | [Github](https://github.com/FlokoROM) - [Web](https://floko.maud.io/) | 11
+ **Fluid OS** | [Github](https://github.com/project-fluid) - [Web](https://fluidos.me/) | 12
+ **Freaky OS** | [Github](https://github.com/FreakyOS) - [Web](https://freakyos.me) | 11
+ **Fusion OS** | [Github](https://github.com/Fusion-OS) | 12
+ **GrapheneOS** | [Github](https://github.com/GrapheneOS) - [Web](https://grapheneos.org/) | 12
+ **Halogen OS** | [Github](https://git.halogenos.org/halogenOS) - [Web](https://halogenos.org/) | 11
+ **Havoc OS** | [Github](https://github.com/Havoc-OS) | 11
+ **HyconOS** | [Github](https://github.com/HyconOS) | 11
+ **HentaiOS** | [Github](https://github.com/hentaiOS) - [Web](https://downloads.hentaios.com/) | 12
+ **Ion OS** | [Github](https://github.com/i-o-n) | 10
  **Kang OS** | [Github](https://github.com/Kang-OS-R) 
  **Komodo OS** | [Github](https://github.com/Komodo-OS-Rom) - [Web](https://komodo-os.my.id/)
  **Legion OS** | [Github](https://github.com/Project-LegionOS) - [Web](http://legionos.tk/)
