@@ -35,7 +35,7 @@ ROM Name | Links | Android Version
  **Corvus ROM** | [Github](https://github.com/Corvus-ROM) - [Web](https://www.corvusrom.com/) | 11
  **Cosmic OS** | [Github](https://github.com/Cosmic-OS) - [Web](https://cosmic-os.github.io/) | 10
  **CrDroid** | [Github](https://github.com/crdroidandroid) - [Web](https://crdroid.net/) | 11
- **Crystal OS | [http://github.com/CrystalOS-Project] | 12*
+ **Crystal OS** | [http://github.com/CrystalOS-Project] | 12
  **Cygnus ROM** | [Github](https://github.com/cygnus-rom) | 11
  **Cypher OS** | [Github](https://github.com/CypherOS)
  **Derpfest** | [Github](https://github.com/DerpLab) - [Web](https://derpfest.org/)
